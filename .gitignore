@@ -43,3 +43,4 @@ pipeline-build-config.json
 *.iml
 .scannerwork/
 env-config
+/.gradle/
