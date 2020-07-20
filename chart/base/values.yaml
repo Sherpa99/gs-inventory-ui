@@ -42,6 +42,6 @@ vcsInfo:
 
 partOf: ""
 
-connectsTo: ""
+connectsTo: "gs-inventory-management-bff"
 
 runtime: js
