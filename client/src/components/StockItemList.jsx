@@ -134,4 +134,4 @@ class StockItemList extends Component {
     );
   }
 }
-export default TableList;
+export default StockItemList;
